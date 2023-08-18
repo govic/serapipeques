@@ -5760,6 +5760,8 @@ MonoBehaviour:
           m_BoolArgument: 1
         m_CallState: 2
   audioSource: {fileID: 224636700}
+  agregarEstrella: 0
+  PlayOnAwake: 1
 --- !u!82 &224636700
 AudioSource:
   m_ObjectHideFlags: 0
@@ -11878,6 +11880,8 @@ MonoBehaviour:
           m_BoolArgument: 1
         m_CallState: 2
   audioSource: {fileID: 695213468}
+  agregarEstrella: 0
+  PlayOnAwake: 1
 --- !u!82 &695213468
 AudioSource:
   m_ObjectHideFlags: 0
@@ -17297,7 +17301,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 3791ec06db5b81741a37caba019729d6, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 2c2c30ad269f55a47b650faa6ed6d84e, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -17445,6 +17449,8 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
   audioSource: {fileID: 915559611}
+  agregarEstrella: 0
+  PlayOnAwake: 1
 --- !u!82 &915559611
 AudioSource:
   m_ObjectHideFlags: 0
@@ -17969,6 +17975,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nombreEscenaDestino: Isla Plaza
   IDAnclaDestino: "NI\xD1A"
+  agregarEstrella: 0
 --- !u!114 &1021028178
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24196,6 +24203,8 @@ MonoBehaviour:
           m_BoolArgument: 1
         m_CallState: 2
   audioSource: {fileID: 1369847304}
+  agregarEstrella: 0
+  PlayOnAwake: 1
 --- !u!82 &1369847304
 AudioSource:
   m_ObjectHideFlags: 0
@@ -29247,6 +29256,8 @@ MonoBehaviour:
           m_BoolArgument: 1
         m_CallState: 2
   audioSource: {fileID: 1408104290}
+  agregarEstrella: 0
+  PlayOnAwake: 1
 --- !u!82 &1408104290
 AudioSource:
   m_ObjectHideFlags: 0
@@ -29808,6 +29819,8 @@ MonoBehaviour:
           m_BoolArgument: 1
         m_CallState: 2
   audioSource: {fileID: 1520703603}
+  agregarEstrella: 0
+  PlayOnAwake: 1
 --- !u!82 &1520703603
 AudioSource:
   m_ObjectHideFlags: 0
@@ -35469,7 +35482,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 8
-  m_Sprite: {fileID: -5355555685757992798, guid: 552ebbae1029c214aacc4ad6f56f7233,
+  m_Sprite: {fileID: 7857337265498296458, guid: b4765674587f3a8469ef8e4c3979630e,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -37118,7 +37131,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 5
-  m_Sprite: {fileID: -9140472699334298328, guid: 552ebbae1029c214aacc4ad6f56f7233,
+  m_Sprite: {fileID: -8341961764678190190, guid: b4765674587f3a8469ef8e4c3979630e,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -37224,7 +37237,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 6
-  m_Sprite: {fileID: -9190155835677899840, guid: 552ebbae1029c214aacc4ad6f56f7233,
+  m_Sprite: {fileID: -459692578027176645, guid: b4765674587f3a8469ef8e4c3979630e,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -37314,7 +37327,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 11
-  m_Sprite: {fileID: 8968636012366555216, guid: 552ebbae1029c214aacc4ad6f56f7233,
+  m_Sprite: {fileID: -6222555475888127352, guid: b4765674587f3a8469ef8e4c3979630e,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -37735,7 +37748,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 12
-  m_Sprite: {fileID: -6398336622590906834, guid: 552ebbae1029c214aacc4ad6f56f7233,
+  m_Sprite: {fileID: 9102174433485050398, guid: b4765674587f3a8469ef8e4c3979630e,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -38043,7 +38056,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 18
-  m_Sprite: {fileID: -2450661484166348211, guid: 552ebbae1029c214aacc4ad6f56f7233,
+  m_Sprite: {fileID: -3100269215539985586, guid: b4765674587f3a8469ef8e4c3979630e,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -38148,7 +38161,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 14
-  m_Sprite: {fileID: 6462128675377911134, guid: 552ebbae1029c214aacc4ad6f56f7233,
+  m_Sprite: {fileID: 8139924933796488590, guid: b4765674587f3a8469ef8e4c3979630e,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0

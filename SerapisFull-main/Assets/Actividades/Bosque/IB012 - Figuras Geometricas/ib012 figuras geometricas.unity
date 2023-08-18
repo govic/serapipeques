@@ -827,7 +827,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 04e1543512cfc1b4cab031620aab0739, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.295
+  m_Volume: 0.088
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -1247,6 +1247,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nombreEscenaDestino: Isla Bosque
   IDAnclaDestino: PIRAMIDE
+  agregarEstrella: 0
 --- !u!114 &1948674739
 MonoBehaviour:
   m_ObjectHideFlags: 0

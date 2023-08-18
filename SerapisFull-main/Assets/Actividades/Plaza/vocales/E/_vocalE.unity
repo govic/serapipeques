@@ -254,6 +254,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nombreEscenaDestino: Isla Plaza
   IDAnclaDestino: GLOBOVERDE
+  agregarEstrella: 0
 --- !u!114 &309838837
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -488,6 +489,8 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
   audioSource: {fileID: 420401341}
+  agregarEstrella: 0
+  PlayOnAwake: 1
 --- !u!82 &420401341
 AudioSource:
   m_ObjectHideFlags: 0
@@ -767,6 +770,8 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
   audioSource: {fileID: 537952946}
+  agregarEstrella: 0
+  PlayOnAwake: 1
 --- !u!82 &537952946
 AudioSource:
   m_ObjectHideFlags: 0
@@ -1471,6 +1476,8 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
   audioSource: {fileID: 961891847}
+  agregarEstrella: 0
+  PlayOnAwake: 1
 --- !u!82 &961891847
 AudioSource:
   m_ObjectHideFlags: 0
@@ -1481,7 +1488,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 58c8dff32a004d2419470e54ca7d4a9b, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 89e0936442d59924eaddcad45fd16ecf, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -1738,6 +1745,8 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
   audioSource: {fileID: 984158701}
+  agregarEstrella: 0
+  PlayOnAwake: 1
 --- !u!82 &984158701
 AudioSource:
   m_ObjectHideFlags: 0
@@ -1748,7 +1757,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: e028090a76570314a845202ccbcb1d41, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 781b1e983b40aba49bde4a471932f70c, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -1919,6 +1928,8 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
   audioSource: {fileID: 1008607770}
+  agregarEstrella: 0
+  PlayOnAwake: 1
 --- !u!82 &1008607770
 AudioSource:
   m_ObjectHideFlags: 0
@@ -2100,6 +2111,8 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
   audioSource: {fileID: 1012397219}
+  agregarEstrella: 0
+  PlayOnAwake: 1
 --- !u!82 &1012397219
 AudioSource:
   m_ObjectHideFlags: 0
@@ -2367,6 +2380,8 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
   audioSource: {fileID: 1219747440}
+  agregarEstrella: 0
+  PlayOnAwake: 1
 --- !u!82 &1219747440
 AudioSource:
   m_ObjectHideFlags: 0
@@ -2377,7 +2392,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 4f37f0f0531179744a4a3057d14fbbbc, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 4893642bf9443fb47b3b96ceb511b679, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -2744,6 +2759,8 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
   audioSource: {fileID: 1321878082}
+  agregarEstrella: 0
+  PlayOnAwake: 1
 --- !u!82 &1321878082
 AudioSource:
   m_ObjectHideFlags: 0
@@ -3036,6 +3053,8 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
   audioSource: {fileID: 1568411791}
+  agregarEstrella: 0
+  PlayOnAwake: 1
 --- !u!82 &1568411791
 AudioSource:
   m_ObjectHideFlags: 0
@@ -3217,6 +3236,8 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
   audioSource: {fileID: 1778964880}
+  agregarEstrella: 0
+  PlayOnAwake: 1
 --- !u!82 &1778964880
 AudioSource:
   m_ObjectHideFlags: 0
@@ -3398,6 +3419,8 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
   audioSource: {fileID: 1905552930}
+  agregarEstrella: 0
+  PlayOnAwake: 1
 --- !u!82 &1905552930
 AudioSource:
   m_ObjectHideFlags: 0

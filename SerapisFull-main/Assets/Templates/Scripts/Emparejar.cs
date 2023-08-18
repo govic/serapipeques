@@ -11,6 +11,7 @@ public class Emparejar : MonoBehaviour
     Vector3 startPosition;
 
     public Transform go; // por si queremos mover otro objeto en vez de el objeto que tenga el scritp
+    public bool objetos3D = false;
 
     bool emparejado;
     bool onRange;

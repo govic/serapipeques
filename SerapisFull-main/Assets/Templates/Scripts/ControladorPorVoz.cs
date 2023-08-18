@@ -14,6 +14,7 @@ public class ControladorPorVoz : MonoBehaviour
     public UnityEvent[] eventosPalabras;
     public string[] palabras;
     private bool activo;
+    public bool[] PalabraActiva = new bool[3] { true, true, true };
     // Start is called before the first frame update
     void Start()
     {
@@ -40,16 +41,16 @@ public class ControladorPorVoz : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
     }
     private void WordReconized(PhraseRecognizedEventArgs word)
     {
         wordToAction[word.text].Invoke();
-        
+
     }
     public void Palabra1()
     {
-        if (activo)
+        if (activo && PalabraActiva[0] == true)
         {
             eventosPalabras[0].Invoke();
         }
@@ -61,7 +62,7 @@ public class ControladorPorVoz : MonoBehaviour
     }
     public void Palabra2()
     {
-        if (activo)
+        if (activo && PalabraActiva[1] == true)
         {
             eventosPalabras[1].Invoke();
         }
@@ -73,7 +74,7 @@ public class ControladorPorVoz : MonoBehaviour
     }
     public void Palabra3()
     {
-        if (activo)
+        if (activo && PalabraActiva[2] == true)
         {
             eventosPalabras[2].Invoke();
         }
@@ -81,7 +82,15 @@ public class ControladorPorVoz : MonoBehaviour
         {
             print("No estoy activo");
         }
-        
+
         print("Dijo la palabra");
+    }
+    public void ActivarPalabra(int nPalabra)
+    {
+        PalabraActiva[nPalabra] = true;
+    }
+    public void DesactivarPalabra(int nPalabra)
+    {
+        PalabraActiva[nPalabra] = false;
     }
 }

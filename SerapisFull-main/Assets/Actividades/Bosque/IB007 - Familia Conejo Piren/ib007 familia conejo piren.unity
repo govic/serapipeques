@@ -801,6 +801,8 @@ MonoBehaviour:
           m_BoolArgument: 1
         m_CallState: 2
   audioSource: {fileID: 220930683}
+  agregarEstrella: 0
+  PlayOnAwake: 1
 --- !u!82 &220930683
 AudioSource:
   m_ObjectHideFlags: 0
@@ -1576,7 +1578,7 @@ MonoBehaviour:
         m_MethodName: PlayOneShot
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 8300000, guid: 59078b91157398b4b94caeff62d25a8b,
+          m_ObjectArgument: {fileID: 8300000, guid: c837727d14cfabf4dbb3df08e9d0b26c,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
           m_IntArgument: 0
@@ -2464,6 +2466,8 @@ MonoBehaviour:
           m_BoolArgument: 1
         m_CallState: 2
   audioSource: {fileID: 1253301607}
+  agregarEstrella: 0
+  PlayOnAwake: 1
 --- !u!82 &1253301607
 AudioSource:
   m_ObjectHideFlags: 0
@@ -2616,7 +2620,7 @@ MonoBehaviour:
         m_MethodName: PlayOneShot
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 8300000, guid: 59078b91157398b4b94caeff62d25a8b,
+          m_ObjectArgument: {fileID: 8300000, guid: c837727d14cfabf4dbb3df08e9d0b26c,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
           m_IntArgument: 0
@@ -3180,7 +3184,7 @@ MonoBehaviour:
         m_MethodName: PlayOneShot
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 8300000, guid: 59078b91157398b4b94caeff62d25a8b,
+          m_ObjectArgument: {fileID: 8300000, guid: c837727d14cfabf4dbb3df08e9d0b26c,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
           m_IntArgument: 0
@@ -3459,6 +3463,8 @@ MonoBehaviour:
           m_BoolArgument: 1
         m_CallState: 2
   audioSource: {fileID: 1541477415}
+  agregarEstrella: 0
+  PlayOnAwake: 1
 --- !u!1 &1647470634
 GameObject:
   m_ObjectHideFlags: 0
@@ -4479,6 +4485,8 @@ MonoBehaviour:
           m_BoolArgument: 1
         m_CallState: 2
   audioSource: {fileID: 1900028697}
+  agregarEstrella: 0
+  PlayOnAwake: 1
 --- !u!82 &1900028697
 AudioSource:
   m_ObjectHideFlags: 0
@@ -5244,6 +5252,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nombreEscenaDestino: Isla Bosque
   IDAnclaDestino: FAMILIA
+  agregarEstrella: 0
 --- !u!1 &1953027008
 GameObject:
   m_ObjectHideFlags: 0
@@ -5309,7 +5318,7 @@ MonoBehaviour:
         m_MethodName: PlayOneShot
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 8300000, guid: 59078b91157398b4b94caeff62d25a8b,
+          m_ObjectArgument: {fileID: 8300000, guid: c837727d14cfabf4dbb3df08e9d0b26c,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
           m_IntArgument: 0

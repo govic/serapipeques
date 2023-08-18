@@ -520,6 +520,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -866,6 +867,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -1491,7 +1493,7 @@ MonoBehaviour:
         m_MethodName: PlayOneShot
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 8300000, guid: 37a08420045baab40bd9100532837abf,
+          m_ObjectArgument: {fileID: 8300000, guid: c837727d14cfabf4dbb3df08e9d0b26c,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
           m_IntArgument: 0
@@ -1762,6 +1764,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -1940,6 +1943,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -2203,6 +2207,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -2634,6 +2639,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -2980,6 +2986,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -3631,6 +3638,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -4188,6 +4196,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -4372,6 +4381,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -4806,6 +4816,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -5362,6 +5373,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -5878,6 +5890,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -6056,6 +6069,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -6911,6 +6925,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -7089,6 +7104,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -7267,6 +7283,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -8333,6 +8350,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -8854,6 +8872,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -9116,6 +9135,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -10633,6 +10653,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -10919,7 +10940,7 @@ MonoBehaviour:
         m_MethodName: PlayOneShot
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 8300000, guid: 37a08420045baab40bd9100532837abf,
+          m_ObjectArgument: {fileID: 8300000, guid: c837727d14cfabf4dbb3df08e9d0b26c,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
           m_IntArgument: 0
@@ -11184,6 +11205,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -11997,6 +12019,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -12181,6 +12204,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -12467,7 +12491,7 @@ MonoBehaviour:
         m_MethodName: PlayOneShot
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 8300000, guid: 37a08420045baab40bd9100532837abf,
+          m_ObjectArgument: {fileID: 8300000, guid: c837727d14cfabf4dbb3df08e9d0b26c,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
           m_IntArgument: 0
@@ -13323,6 +13347,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -13501,6 +13526,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -13890,6 +13916,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -14337,6 +14364,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -14684,6 +14712,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -15285,6 +15314,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -15463,6 +15493,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -15641,6 +15672,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -15988,6 +16020,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -16166,6 +16199,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -16344,6 +16378,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -16612,6 +16647,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -16872,6 +16908,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -17387,6 +17424,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -17650,6 +17688,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -19999,6 +20038,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -20183,6 +20223,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -20361,6 +20402,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -20623,6 +20665,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -21493,7 +21536,7 @@ MonoBehaviour:
         m_MethodName: PlayOneShot
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 8300000, guid: 37a08420045baab40bd9100532837abf,
+          m_ObjectArgument: {fileID: 8300000, guid: c837727d14cfabf4dbb3df08e9d0b26c,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
           m_IntArgument: 0
@@ -21843,6 +21886,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -22106,6 +22150,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -22757,6 +22802,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -22935,6 +22981,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -24019,6 +24066,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -24270,6 +24318,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -24448,6 +24497,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -24869,6 +24919,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -25185,6 +25236,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -25448,6 +25500,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -25626,6 +25679,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -26182,6 +26236,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -26360,6 +26415,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -26705,6 +26761,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -27051,6 +27108,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -27398,6 +27456,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -27546,6 +27605,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nombreEscenaDestino: Isla Bosque
   IDAnclaDestino: MANZANAS
+  agregarEstrella: 0
 --- !u!1 &1466391605
 GameObject:
   m_ObjectHideFlags: 0
@@ -27940,6 +28000,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -28118,6 +28179,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -28296,6 +28358,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -28600,6 +28663,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -28802,7 +28866,7 @@ MonoBehaviour:
         m_MethodName: PlayOneShot
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 8300000, guid: 37a08420045baab40bd9100532837abf,
+          m_ObjectArgument: {fileID: 8300000, guid: c837727d14cfabf4dbb3df08e9d0b26c,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
           m_IntArgument: 0
@@ -29364,6 +29428,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -30082,6 +30147,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -31206,6 +31272,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -31680,6 +31747,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -33337,6 +33405,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -33515,6 +33584,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -33717,7 +33787,7 @@ MonoBehaviour:
         m_MethodName: PlayOneShot
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 8300000, guid: 37a08420045baab40bd9100532837abf,
+          m_ObjectArgument: {fileID: 8300000, guid: c837727d14cfabf4dbb3df08e9d0b26c,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
           m_IntArgument: 0
@@ -33982,6 +34052,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -34602,6 +34673,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -35034,6 +35106,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -35212,6 +35285,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -35803,6 +35877,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -35981,6 +36056,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -36410,6 +36486,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -36588,6 +36665,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -36790,7 +36868,7 @@ MonoBehaviour:
         m_MethodName: PlayOneShot
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 8300000, guid: 37a08420045baab40bd9100532837abf,
+          m_ObjectArgument: {fileID: 8300000, guid: c837727d14cfabf4dbb3df08e9d0b26c,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
           m_IntArgument: 0
@@ -37996,6 +38074,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -38258,6 +38337,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -38521,6 +38601,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -38908,6 +38989,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -39086,6 +39168,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -39938,6 +40021,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -40371,6 +40455,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -41223,6 +41308,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -41509,7 +41595,7 @@ MonoBehaviour:
         m_MethodName: PlayOneShot
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 8300000, guid: 37a08420045baab40bd9100532837abf,
+          m_ObjectArgument: {fileID: 8300000, guid: c837727d14cfabf4dbb3df08e9d0b26c,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
           m_IntArgument: 0
@@ -41774,6 +41860,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -42126,6 +42213,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -42304,6 +42392,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -42907,6 +42996,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -43684,6 +43774,7 @@ MonoBehaviour:
         m_CallState: 2
   moveToMatchPosition: 0
   go: {fileID: 0}
+  objetos3D: 0
   cont: {fileID: 1184421950199515991}
   sirveCont: 1
   disableOnMatch: 0
@@ -44049,7 +44140,7 @@ MonoBehaviour:
         m_MethodName: PlayOneShot
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 8300000, guid: 37a08420045baab40bd9100532837abf,
+          m_ObjectArgument: {fileID: 8300000, guid: c837727d14cfabf4dbb3df08e9d0b26c,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
           m_IntArgument: 0
